@@ -26,7 +26,6 @@ q14 = ['What is the name a fameous polish painter which painted darkness picture
 q15 = ['How many people live on the world in 2017 year?', 'a - 6.5 billion', 'b - 7 billion', 'c - 7.5 billion', 'd - 8 billion']
 q16 = ['What is the name the tallest building in the world?', 'a - Freedom Tower, ', 'b - Warsaw Spire', 'c - Empire State Building', 'd - Burdż Chalifa']
 
-# Trudne pytania
 q17 = ['Wchich Superhero drew Bob Kane?', 'a - Batman', 'b - Spiderman', 'c - Captain America', 'd - Superman']
 q18 = ['How years ago sank The Titanic?', 'a - 1911', 'b - 1912', 'c - 1913', 'd - 1914']
 q19 = ['What animal is particulary treat in China?', 'a - Tiger', 'b - Elephant', 'c - Panda', 'd - Bear']
